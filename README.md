@@ -19,7 +19,9 @@ point-of-balance/
 ├── pages/
 │   └── catalog.html        # Страница каталога
 ├── css/
-│   └── style.css           # Все стили
+│   ├── style.css
+│   ├── catalog.css
+│   └── product.css
 ├── assets/
 │   ├── images/             # Изображения
 │   └── fonts/              # Шрифты
